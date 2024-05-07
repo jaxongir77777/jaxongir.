@@ -1,0 +1,9 @@
+a=123
+b=a//10
+c=b%10
+v=b//10
+n=a%10
+w=str(c)
+w1=str(v)
+w2=str(n)
+print(int(w+w1+w2))
